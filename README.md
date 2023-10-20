@@ -6,7 +6,7 @@
 * Add this code to your file and boom 🤩!
 
 ```html
-<script src="https://gitcdn.link/cdn/kaungkhantjc/000Web-Hide-Branding/main/hide_branding_0.0.2.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kaungkhantjc/000Web-Hide-Branding/hide_branding_0.0.2.js"></script>
 ```
 
 #### Hide sponsored branding
